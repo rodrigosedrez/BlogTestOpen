@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJECTS\\BlogTestOpen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\data\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\data\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\data\\apidatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\data\\apidatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\blogtestopen.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\blogtestopen.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|c:\\projects\\blogtestopen\\blogtestopen.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A314BB7-D604-460E-B74B-3040F119227F}|BlogTestOpen.Api\\BlogTestOpen.Api.csproj|solutionrelative:blogtestopen.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E49708-07D9-4F57-B02C-48DE0BE1CF03}|BlogTestOpen.Models\\BlogTestOpen.Models.csproj|c:\\projects\\blogtestopen\\blogtestopen.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E49708-07D9-4F57-B02C-48DE0BE1CF03}|BlogTestOpen.Models\\BlogTestOpen.Models.csproj|solutionrelative:blogtestopen.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F288EC-4998-42A2-ADD0-961319861D00}|BlogTestOpen.Web\\BlogTestOpen.Web\\BlogTestOpen.Web.csproj|c:\\projects\\blogtestopen\\blogtestopen.web\\blogtestopen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F288EC-4998-42A2-ADD0-961319861D00}|BlogTestOpen.Web\\BlogTestOpen.Web\\BlogTestOpen.Web.csproj|solutionrelative:blogtestopen.web\\blogtestopen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B563BA-5C38-45BF-8A3C-54CE240992CF}|BlogTestOpen.Web\\BlogTestOpen.Web.Client\\BlogTestOpen.Web.Client.csproj|c:\\projects\\blogtestopen\\blogtestopen.web\\blogtestopen.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B563BA-5C38-45BF-8A3C-54CE240992CF}|BlogTestOpen.Web\\BlogTestOpen.Web.Client\\BlogTestOpen.Web.Client.csproj|solutionrelative:blogtestopen.web\\blogtestopen.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Data\\Mappings\\UserMap.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\Data\\Mappings\\UserMap.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Data\\Mappings\\UserMap.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\Data\\Mappings\\UserMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:43:17.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiDataContext.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Data\\ApiDataContext.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\Data\\ApiDataContext.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Data\\ApiDataContext.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\Data\\ApiDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:41:49.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogTestOpen.Api.http",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\BlogTestOpen.Api.http",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\BlogTestOpen.Api.http",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\BlogTestOpen.Api.http",
+              "RelativeToolTip": "BlogTestOpen.Api\\BlogTestOpen.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-30T02:24:57.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:24:49.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\Program.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Program.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:24:46.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\appsettings.json",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\appsettings.json",
+              "RelativeToolTip": "BlogTestOpen.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T02:24:41.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:24:11.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Models\\Class1.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Models\\Class1.cs",
+              "RelativeToolTip": "BlogTestOpen.Models\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T23:00:41.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Web\\BlogTestOpen.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Web\\BlogTestOpen.Web\\Program.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Web\\BlogTestOpen.Web\\Program.cs",
+              "RelativeToolTip": "BlogTestOpen.Web\\BlogTestOpen.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:58:44.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Web\\BlogTestOpen.Web.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Web\\BlogTestOpen.Web.Client\\Program.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Web\\BlogTestOpen.Web.Client\\Program.cs",
+              "RelativeToolTip": "BlogTestOpen.Web\\BlogTestOpen.Web.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:58:33.879Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 109,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\Models\\User.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\User.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:25:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\Models\\Category.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\Category.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:31:48.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\Models\\Tag.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\Tag.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:38:48.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\Models\\Role.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\Role.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:34:55.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "BlogTestOpen.Api\\Models\\Post.cs",
+              "ToolTip": "C:\\PROJECTS\\BlogTestOpen\\BlogTestOpen.Api\\Models\\Post.cs",
+              "RelativeToolTip": "BlogTestOpen.Api\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:32:33.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
